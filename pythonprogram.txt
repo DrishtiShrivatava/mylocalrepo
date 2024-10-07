@@ -6,3 +6,5 @@ class student:
 	student1 = student("drishti",25)
 	student1.display_details()
 	print()
+
+My program for student details in python
